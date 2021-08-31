@@ -1,2 +1,2 @@
 # sol
-metaplex stprefront
+metaplex storefront
